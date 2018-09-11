@@ -1,0 +1,2 @@
+#FileName #SliceNumber MinIntensity MaxIntensity #MaskedVoxels #FinalVoxels
+LIDC-IDRI-0003_input.mat 66 -797 213 648 85862 
